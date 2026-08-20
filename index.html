@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Genesis Mission Collaborations — Lawrence Berkeley National Laboratory</title>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+<link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <div id="app">
+    <header id="header">
+      <div class="header-text">
+        <h1>Genesis Mission Collaborations</h1>
+        <p>Lawrence Berkeley National Laboratory — AI-accelerated science projects with partner institutions nationwide</p>
+      </div>
+      <div id="filter-toggle" role="tablist" aria-label="Project view">
+        <button type="button" class="filter-btn active" data-role="lbnl_led" role="tab" aria-selected="true">LBNL-Led</button>
+        <button type="button" class="filter-btn" data-role="partner_led" role="tab" aria-selected="false">Partner-Led</button>
+        <button type="button" class="filter-btn" data-role="all" role="tab" aria-selected="false">All Projects</button>
+      </div>
+    </header>
+    <div id="body-wrap">
+      <aside id="project-list-panel">
+        <div id="project-search-row">
+          <input type="search" id="project-search" placeholder="Search projects or institutions…" aria-label="Search projects" />
+        </div>
+        <div id="project-filter-row">
+          <select id="filter-topic" aria-label="Filter by topic">
+            <option value="">All topics</option>
+          </select>
+          <select id="filter-state" aria-label="Filter by state">
+            <option value="">All states</option>
+          </select>
+          <select id="filter-institution" aria-label="Filter by institution">
+            <option value="">All institutions</option>
+          </select>
+        </div>
+        <div id="project-count"></div>
+        <ul id="project-list"></ul>
+      </aside>
+      <aside id="detail-panel" class="empty" hidden>
+        <button type="button" id="detail-close" aria-label="Close details">&times;</button>
+        <div id="detail-content" hidden>
+          <div class="detail-role" id="detail-role"></div>
+          <h2 id="detail-title"></h2>
+          <p id="detail-description"></p>
+          <div class="detail-label">Lead institution</div>
+          <p id="detail-lead"></p>
+          <div class="detail-label">Partner institutions</div>
+          <ul id="detail-partners"></ul>
+          <a id="detail-source" href="#" target="_blank" rel="noopener">View source →</a>
+        </div>
+      </aside>
+      <div id="map-wrap">
+        <div id="map"></div>
+        <div id="detail-empty">Select a project from the list, or click a connection line, to see details.</div>
+        <div id="legend">
+          <div class="legend-section">
+            <div class="legend-title">Connection</div>
+            <div class="legend-row" id="legend-row-lbnl"><span class="swatch line lbnl-led"></span> LBNL-led project</div>
+            <div class="legend-row" id="legend-row-partner"><span class="swatch line partner-led"></span> Partner-led project</div>
+          </div>
+          <div class="legend-section">
+            <div class="legend-title">Institution</div>
+            <div class="legend-row"><span class="swatch dot lbnl"></span> Lawrence Berkeley National Laboratory</div>
+            <div class="legend-row"><span class="swatch dot partner"></span> Partner institution</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

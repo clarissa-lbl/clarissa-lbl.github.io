@@ -1,0 +1,644 @@
+[
+  {
+    "id": "lbnl-led-01",
+    "title": "Autonomous Labs for Materials Discovery",
+    "role": "lbnl_led",
+    "leadInstitution": "lawrence-berkeley-national-laboratory",
+    "description": "Researchers will create a team of specialized AI agents that combines scientific literature, simulations, and experimental data to propose, test, and refine materials hypotheses in Berkeley Lab’s robotic A-Lab. By learning from each experimental cycle, the system could accelerate scientific reasoning and discovery by 100-fold, helping identify advanced materials for energy, manufacturing, defense, and telecommunications.",
+    "partnerInstitutions": [
+      "massachusetts-institute-of-technology"
+    ],
+    "sourceUrl": "https://www.lbl.gov/genesis-mission-projects/#a-wild",
+    "topic": "Materials Science & Manufacturing"
+  },
+  {
+    "id": "lbnl-led-02",
+    "title": "Recovering Critical Minerals",
+    "role": "lbnl_led",
+    "leadInstitution": "lawrence-berkeley-national-laboratory",
+    "description": "Because traditional mining is energy-intensive and creates significant waste, improved models could help determine how new critical mineral extraction methods can work at scale in the complex underground environment. This project combines AI with Berkeley Lab software for reactive transport modeling, which simulates fluid flow, solute transport, and chemical reactions. The framework will be applied at three mining sites to create a “digital twin” of mineral-rich geosystems that can help optimize mineral recovery.",
+    "partnerInstitutions": [
+      "purdue-university",
+      "stanford-university",
+      "montana-tech",
+      "group-ten-usa",
+      "spruce-oregon-holdings"
+    ],
+    "sourceUrl": "https://www.lbl.gov/genesis-mission-projects/#geosystems-critical-minerals",
+    "topic": "Critical Minerals & Geochemistry"
+  },
+  {
+    "id": "lbnl-led-03",
+    "title": "Accelerated Alloy Engineering",
+    "role": "lbnl_led",
+    "leadInstitution": "lawrence-berkeley-national-laboratory",
+    "description": "This project establishes an artificial intelligence-accelerated framework to optimize complex concentrated alloys for extreme environments. Tightly integrating three institutions, the workflow combines thermodynamic and kinetic modeling, rapid experimental synthesis, and atomic-scale structural characterization using advanced four-dimensional scanning transmission electron microscopy at the Molecular Foundry’s National Center for Electron Microscopy. This closed-loop system replaces slow, traditional trial-and-error discovery with a predictive, high-throughput materials design pipeline.",
+    "partnerInstitutions": [
+      "lawrence-livermore-national-laboratory",
+      "university-of-california-davis"
+    ],
+    "sourceUrl": "https://www.lbl.gov/genesis-mission-projects/#alloy-engineering",
+    "topic": "Materials Science & Manufacturing"
+  },
+  {
+    "id": "lbnl-led-04",
+    "title": "Quantum and Optoelectronic Materials Discovery",
+    "role": "lbnl_led",
+    "leadInstitution": "lawrence-berkeley-national-laboratory",
+    "description": "Many modern technologies depend on how materials behave when they are in excited states, e.g., after light absorption or charge injection. Predicting these behaviors requires physics simulations that are too computationally expensive to run across thousands of candidate materials. This Berkeley Lab-led project combines predictive quantum many-body simulations with advanced AI models to establish a framework that will accelerate the understanding and discovery of quantum and optoelectronic materials for future computing, sensing, and energy technologies.",
+    "partnerInstitutions": [
+      "carnegie-mellon-university",
+      "university-of-southern-california",
+      "yale-university",
+      "exabyte"
+    ],
+    "sourceUrl": "https://www.lbl.gov/genesis-mission-projects/#quantum-materials",
+    "topic": "Quantum Science"
+  },
+  {
+    "id": "lbnl-led-05",
+    "title": "Predicting Subsurface Fractures",
+    "role": "lbnl_led",
+    "leadInstitution": "lawrence-berkeley-national-laboratory",
+    "description": "Fractures in Earth’s subsurface control where fluids move underground, so understanding them is important for advancing subsurface energy applications such as geothermal energy. By combining seismic and electromagnetic observations from The Geysers geothermal field in California, this project will transform sparse observations into spatially continuous subsurface maps that reveal how fractures and fluid pathways exist deep underground, accelerating the often slow and meticulous process of characterizing and monitoring subsurface fluid flow.",
+    "partnerInstitutions": [
+      "university-of-california-berkeley"
+    ],
+    "sourceUrl": "https://www.lbl.gov/genesis-mission-projects/#subsurface-fractures",
+    "topic": "Subsurface, Earth & Water Systems"
+  },
+  {
+    "id": "lbnl-led-06",
+    "title": "Digital Twins for Fusion Magnet Systems",
+    "role": "lbnl_led",
+    "leadInstitution": "lawrence-berkeley-national-laboratory",
+    "description": "High-temperature superconductors are crucial for future compact magnetic fusion power plants, but their reliability is limited by difficulty in detecting defects and managing transitions to the normal conducting state (quenches). This can cause unexpected heating, potentially leading to catastrophic magnet failures. Using AI, we will combine models and measurements into a “digital twin” that assesses the risk of damage in real time and helps protect and control magnets for the next generation of fusion reactors.",
+    "partnerInstitutions": [
+      "massachusetts-institute-of-technology",
+      "fermi-national-accelerator-laboratory",
+      "florida-state-university"
+    ],
+    "sourceUrl": "https://www.lbl.gov/genesis-mission-projects/#fusion-magnet",
+    "topic": "Energy Infrastructure & Grid"
+  },
+  {
+    "id": "lbnl-led-07",
+    "title": "Precise Predictions of Water Supplies",
+    "role": "lbnl_led",
+    "leadInstitution": "lawrence-berkeley-national-laboratory",
+    "description": "Water is essential to America’s energy grid, but predicting how much is available remains a major scientific challenge. This project will develop a first-of-its-kind artificial intelligence framework to jointly predict surface and groundwater with unprecedented detail and reliability in the Upper Colorado River Basin, eventually aiming to scale nationwide to help secure America’s energy and water future. Achieving this would fundamentally change how water availability is estimated for hydropower, fossil, thermoelectric, and geothermal energy production.",
+    "partnerInstitutions": [
+      "los-alamos-national-laboratory",
+      "national-renewable-energy-laboratory",
+      "massachusetts-institute-of-technology"
+    ],
+    "sourceUrl": "https://www.lbl.gov/genesis-mission-projects/#water-supplies",
+    "topic": "Subsurface, Earth & Water Systems"
+  },
+  {
+    "id": "lbnl-led-08",
+    "title": "Meeting Water-Energy Demand",
+    "role": "lbnl_led",
+    "leadInstitution": "lawrence-berkeley-national-laboratory",
+    "description": "From the cooling needs of fossil and nuclear power plants to the expansion of water-intensive data centers, meeting the demand for uninterrupted water supplies is inseparable from and crucial for reliable energy generation and grid resilience. This new project creates an AI-framework designed to deliver accurate predictions of U.S. water availability and risks specifically for energy applications, providing water resource predictions essential for stakeholder decision-making and management.",
+    "partnerInstitutions": [
+      "university-of-california-berkeley",
+      "sandia-national-laboratories",
+      "pacific-northwest-national-laboratory",
+      "oak-ridge-national-laboratory"
+    ],
+    "sourceUrl": "https://www.lbl.gov/genesis-mission-projects/#wise",
+    "topic": "Subsurface, Earth & Water Systems"
+  },
+  {
+    "id": "lbnl-led-09",
+    "title": "Protecting U.S. Hydropower and Grid",
+    "role": "lbnl_led",
+    "leadInstitution": "lawrence-berkeley-national-laboratory",
+    "description": "Linking precipitation to energy forecasting ensures consistent power generation and natural hazards preparedness. The ASPIRE project will build an AI system to accelerate scientific insights into forecast improvements using DOE’s flagship atmospheric datasets. By coordinating data curation, scientific study review, and regional atmospheric simulations, the project will compress scientific analysis from months to hours, demonstrating a novel research workflow focused on the microscopic and large-scale physics behind severe weather, and eventually enabling adaptive data collection.",
+    "partnerInstitutions": [
+      "lawrence-livermore-national-laboratory",
+      "montana-state-university",
+      "boise-state-university"
+    ],
+    "sourceUrl": "https://www.lbl.gov/genesis-mission-projects/#aspire",
+    "topic": "Subsurface, Earth & Water Systems"
+  },
+  {
+    "id": "lbnl-led-10",
+    "title": "Making DOE Codes Self-Service",
+    "role": "lbnl_led",
+    "leadInstitution": "lawrence-berkeley-national-laboratory",
+    "description": "American manufacturers leverage the Department of Energy’s scientific codes to address complex engineering challenges, but running them traditionally requires assistance from lab scientists. The Agentic HPC Pipeline Initiative will bridge this gap by developing AI workflows for commercial clouds to automate setup and analysis. These tools will empower U.S. companies to independently optimize semiconductors, synthetic fuels, and 3D printing, transforming lab software into self-service tools.",
+    "partnerInstitutions": [
+      "lawrence-livermore-national-laboratory",
+      "oak-ridge-national-laboratory",
+      "rescale"
+    ],
+    "sourceUrl": "https://www.lbl.gov/genesis-mission-projects/#ahpi",
+    "topic": "Scientific Infrastructure & AI Methods"
+  },
+  {
+    "id": "lbnl-led-11",
+    "title": "Safely Storing Nuclear Waste",
+    "role": "lbnl_led",
+    "leadInstitution": "lawrence-berkeley-national-laboratory",
+    "description": "As decades of critical geological data is trapped in non-machine readable paper maps and PDFs, this project will develop an AI-assisted computer vision model to rapidly digitize these legacy records – helping identify safe sites for nuclear waste disposal. The extracted data will automatically generate 2D screening maps and subsurface models to quickly identify structural hazards, accelerating the development of safe nuclear waste disposal.",
+    "partnerInstitutions": [
+      "deep-isolation"
+    ],
+    "sourceUrl": "https://www.lbl.gov/genesis-mission-projects/#geotrace",
+    "topic": "Scientific Infrastructure & AI Methods"
+  },
+  {
+    "id": "lbnl-led-12",
+    "title": "Unlocking Nuclear Archives",
+    "role": "lbnl_led",
+    "leadInstitution": "lawrence-berkeley-national-laboratory",
+    "description": "The government holds millions of historical documents that could accelerate nuclear power innovation, but experts must painstakingly vet them for sensitive security details before release. To aid this effort, the HERALD project will build an AI-assisted pipeline to scan complex texts and engineering diagrams and link flagged content to specific security rules, enabling experts to quickly and effectively review documents. They will test this AI platform on published scientific papers before tackling secure government archives.",
+    "partnerInstitutions": [
+      "valency-systems"
+    ],
+    "sourceUrl": "https://www.lbl.gov/genesis-mission-projects/#herald",
+    "topic": "Scientific Infrastructure & AI Methods"
+  },
+  {
+    "id": "lbnl-led-13",
+    "title": "Nuclear Waste Repository Design",
+    "role": "lbnl_led",
+    "leadInstitution": "lawrence-berkeley-national-laboratory",
+    "description": "Safe geologic repositories for waste are essential to expanding adoption of nuclear energy, but their design analysis is a long, complex and inflexible process because many integrated factors are treated in isolation. This platform dissolves these silos, delivering a retrieval-augmented generation (RAG) framework centered on an AI-powered digital twin, linking waste inventory quantification, geological modeling, and performance simulation into one system, and accelerating repository design from years to weeks while keeping human experts involved.",
+    "partnerInstitutions": [
+      "massachusetts-institute-of-technology",
+      "stanford-university",
+      "deep-isolation"
+    ],
+    "sourceUrl": "https://www.lbl.gov/genesis-mission-projects/#hlw",
+    "topic": "Subsurface, Earth & Water Systems"
+  },
+  {
+    "id": "partner-led-01",
+    "title": "Predictive AI to Map Point Mutation Effects on Protein Function: Measurement and Biosynthesis of Isoprenoids",
+    "role": "partner_led",
+    "leadInstitution": "rice-university",
+    "description": "Naturally occurring isoprenoids could replace petroleum-derived solvents, fuels, and materials like rubber if their microbial production could be scaled economically. This project combines synthetic biology, protein engineering, and automated experimentation to create datasets linking protein mutations to functional properties, then uses AI to predict how mutations affect enzyme activity and guide high-throughput experiments. The continuous feedback loop between AI predictions and experimental data accelerates microbial production by addressing the bottleneck of measuring and improving biological pathways.",
+    "partnerInstitutions": [
+      "rice-university",
+      "argonne-national-laboratory",
+      "lawrence-berkeley-national-laboratory"
+    ],
+    "sourceUrl": "https://news.rice.edu/news/2026/rice-researchers-earn-2-doe-genesis-mission-awards",
+    "topic": "Biology & Biotechnology"
+  },
+  {
+    "id": "partner-led-02",
+    "title": "AI-Driven Design of Gene Expression Programs in Plants Using Foundation Models and High-Throughput DNA Synthesis",
+    "role": "partner_led",
+    "leadInstitution": "stanford-university",
+    "description": "Current methods for genetic programming in plants are slow and unreliable, limiting the ability to design plants for bioenergy feedstocks and critical mineral recovery. This project develops an AI foundation model for plant gene regulation trained on sorghum and diverse genetic data, then applies it to design plants for domestic production of valuable chemicals and materials. The trained model, benchmarks, and software will be released openly through the Genesis Mission capability catalog for use across academia, national laboratories, and industry.",
+    "partnerInstitutions": [
+      "stanford-university",
+      "slac-national-accelerator-laboratory",
+      "lawrence-berkeley-national-laboratory"
+    ],
+    "sourceUrl": "https://news.stanford.edu/stories/2026/07/stanford-and-slac-to-lead-genesis-mission-projects-that-tackle-the-nation-s-most-complex-science-and-technology-challenges",
+    "topic": "Biology & Biotechnology"
+  },
+  {
+    "id": "partner-led-03",
+    "title": "Foundation Models for Metabolic Engineering",
+    "role": "partner_led",
+    "leadInstitution": "university-of-illinois-urbana-champaign",
+    "description": "Metabolic engineering—the design of microbial production systems—is constrained by slow, trial-and-error approaches. Foundation models trained on diverse biological datasets including genomic sequences, metabolic networks, protein structures, and multi-omics data can learn transferable representations that significantly accelerate the design-build-test-learn cycle. These AI models enable predictive design of metabolic pathways and enzyme functions across multiple organisms, shortening development timelines for domestic biomanufacturing of energy, materials, and industrial biotechnology products.",
+    "partnerInstitutions": [
+      "university-of-illinois-urbana-champaign",
+      "lawrence-berkeley-national-laboratory",
+      "argonne-national-laboratory",
+      "center-for-advanced-bioenergy-and-bioproducts-innovation"
+    ],
+    "sourceUrl": "https://news.illinois.edu/illinois-led-team-selected-for-doe-genesis-mission-award/",
+    "topic": "Biology & Biotechnology"
+  },
+  {
+    "id": "partner-led-04",
+    "title": "Precision Microbiome Engineering in Anaerobic Communities: from Deconstruction to Bioproduction",
+    "role": "partner_led",
+    "leadInstitution": "university-of-california-santa-barbara",
+    "description": "Microbial communities are inherently unpredictable—once multiple organisms interact, outcomes become difficult to anticipate. This project teaches AI systems how communities of anaerobic microbes behave by collecting high-quality experimental data at scale using automated screening of thousands of microbes weekly. AI then analyzes results to identify promising microbial combinations and recommend experiments, enabling researchers to design communities that convert plant waste into medium-chain fatty acids for fuels, bioplastics, detergents, medicines, and advanced materials.",
+    "partnerInstitutions": [
+      "university-of-california-santa-barbara",
+      "lawrence-berkeley-national-laboratory",
+      "university-of-california-berkeley",
+      "cerebras-systems"
+    ],
+    "sourceUrl": "https://news.ucsb.edu/2026/022708/two-ucsb-led-projects-selected-does-genesis-mission",
+    "topic": "Biology & Biotechnology"
+  },
+  {
+    "id": "partner-led-05",
+    "title": "Digital twins for cell free enzymatic cascades",
+    "role": "partner_led",
+    "leadInstitution": "exozymes",
+    "description": "Cell-free enzymatic manufacturing—using cascades of enzymes to convert feedstocks into valuable products without living cells—requires optimization of multiple interacting factors including enzyme kinetics, reactor conditions, and reaction parameters. This project develops hybrid digital twin models that combine enzyme kinetics, reactor physics, and machine learning to create predictive models of cell-free biomanufacturing processes. These AI-enhanced models identify optimal operating conditions before laboratory validation, accelerating the design and scale-up of enzyme-driven manufacturing.",
+    "partnerInstitutions": [
+      "exozymes",
+      "lawrence-berkeley-national-laboratory"
+    ],
+    "sourceUrl": "https://exozymes.com/blog/genesis-mission-2026",
+    "topic": "Biology & Biotechnology"
+  },
+  {
+    "id": "partner-led-06",
+    "title": "AI/ML Resonance control for high-reliability, low-cost accelerator operations",
+    "role": "partner_led",
+    "leadInstitution": "fermi-national-accelerator-laboratory",
+    "description": "Superconducting radio-frequency cavities in particle accelerators are extremely efficient but vulnerable to disruption from minor vibrations and pressure changes, making stable operation expensive and complex. This project develops artificial intelligence and machine learning algorithms to precisely control SRF cavity resonant frequency, enabling more stable, efficient, and autonomous operation across multiple accelerator facilities including Fermilab's PIP-II, SLAC's Linac Coherent Light Source, and Brookhaven's Electron-Ion Collider. The initiative improves reliability, extends amplifier lifetime, reduces operational costs, and increases scientific performance.",
+    "partnerInstitutions": [
+      "fermi-national-accelerator-laboratory",
+      "slac-national-accelerator-laboratory",
+      "brookhaven-national-laboratory",
+      "michigan-state-university",
+      "argonne-national-laboratory",
+      "xlight",
+      "lawrence-berkeley-national-laboratory"
+    ],
+    "sourceUrl": "https://news.fnal.gov/2026/07/u-s-department-of-energy-invests-in-fermilab-projects-to-accelerate-ai-enabled-scientific-discovery/",
+    "topic": "Accelerator & Physics Research"
+  },
+  {
+    "id": "partner-led-07",
+    "title": "Self-Optimizing Digital Twin for Compact Laser Plasma Accelerator Driven Light Sources",
+    "role": "partner_led",
+    "leadInstitution": "inversion-semiconductor",
+    "description": "Semiconductor manufacturing faces fundamental scaling limits as transistor sizes shrink, requiring increasingly sophisticated and expensive lithography systems. This project develops a compact particle accelerator-based light source that shrinks traditional accelerators by 1000-fold, enabling 13.5nm EUV light generation for advanced chip manufacturing. The technology delivers 100% higher transistor density, 3x higher throughput, and 25% improvement in critical dimension uniformity, potentially accelerating the transition to next-generation semiconductor production at lower cost.",
+    "partnerInstitutions": [
+      "inversion-semiconductor",
+      "lawrence-berkeley-national-laboratory"
+    ],
+    "sourceUrl": "https://www.inversionsemi.com/",
+    "topic": "Accelerator & Physics Research"
+  },
+  {
+    "id": "partner-led-08",
+    "title": "Digital Twins for Laser-Plasma Wakefield Acceleration: From Plasma Channel Formation to Beam Optimization",
+    "role": "partner_led",
+    "leadInstitution": "lawrence-livermore-national-laboratory",
+    "description": "Laser-plasma acceleration is a promising approach for next-generation compact accelerators, but optimizing the complex interplay between plasma channel formation and beam dynamics remains a significant challenge. This project creates digital twins that integrate simulations of plasma-channel formation and beam dynamics with AI-enabled optimization to accelerate scientific understanding and improve experimental outcomes. The approach links multiple physical processes with artificial intelligence to optimize performance across laser-plasma systems.",
+    "partnerInstitutions": [
+      "lawrence-livermore-national-laboratory",
+      "lawrence-berkeley-national-laboratory"
+    ],
+    "sourceUrl": "https://www.llnl.gov/article/54711/llnl-selected-lead-10-projects-under-does-genesis-mission",
+    "topic": "Accelerator & Physics Research"
+  },
+  {
+    "id": "partner-led-09",
+    "title": "AI-Enabled Digital Twin for Near-Real-Time Optimization and Decision Support of Fusion NBI Systems",
+    "role": "partner_led",
+    "leadInstitution": "realta-fusion",
+    "description": "Neutral beam injection systems are critical for heating and confining plasma in fusion reactors, but their real-time optimization requires rapid decision-making across complex, high-dimensional operating conditions. This project develops an AI-enabled digital twin for fusion NBI systems to enable near-real-time optimization and autonomous decision support. The digital twin will improve plasma heating efficiency, reduce operational complexity, and enhance overall reactor performance.",
+    "partnerInstitutions": [
+      "realta-fusion",
+      "lawrence-berkeley-national-laboratory",
+      "university-of-wisconsin-madison"
+    ],
+    "sourceUrl": "https://realtafusion.com/",
+    "topic": "Accelerator & Physics Research"
+  },
+  {
+    "id": "partner-led-10",
+    "title": "Transforming subsurface prediction with an autonomous, multi-agent AI workflow for multi-scale coupled bio-hydrogeochemical modeling",
+    "role": "partner_led",
+    "leadInstitution": "university-of-arizona",
+    "description": "Understanding how water, minerals, and microbial communities interact underground is critical for managing energy-sensitive landscapes. This project uses AI models trained on field research data from the Biosphere 2 Landscape Evolution Observatory to rapidly predict and simulate these complex subsurface interactions across different environmental contexts, helping scientists better manage energy-relevant land and water systems.",
+    "partnerInstitutions": [
+      "university-of-arizona",
+      "lawrence-berkeley-national-laboratory"
+    ],
+    "sourceUrl": "https://news.arizona.edu/news/department-energy-selects-5-u-research-projects-through-new-ai-science-genesis-mission-awards",
+    "topic": "Subsurface, Earth & Water Systems"
+  },
+  {
+    "id": "partner-led-11",
+    "title": "AI-enabled subsurface biogeochemical modeling",
+    "role": "partner_led",
+    "leadInstitution": "oak-ridge-national-laboratory",
+    "description": "Predicting biogeochemical cycling in the critical zone—the subsurface area vital for accessing critical minerals—currently requires expensive simulations and struggles to incorporate real-world data. This project trains an AI-driven solver on extensive observational data from Critical Zone Observatories to enable rapid, precise predictions of how subsurface biogeochemical processes vary across locations and time, improving both computational efficiency and accuracy.",
+    "partnerInstitutions": [
+      "oak-ridge-national-laboratory",
+      "auburn-university",
+      "university-of-california-riverside",
+      "lawrence-berkeley-national-laboratory"
+    ],
+    "sourceUrl": "https://www.ornl.gov/project/ai-enabled-subsurface-biogeochemical-modeling",
+    "topic": "Subsurface, Earth & Water Systems"
+  },
+  {
+    "id": "partner-led-12",
+    "title": "AI-Guided Map for Biomining of Critical Minerals (AIM-BioCM): Integrating Microbial, Hydrological, and Geochemical Data",
+    "role": "partner_led",
+    "leadInstitution": "texas-am-university",
+    "description": "Critical minerals are essential for modern technologies, but identifying and recovering them efficiently remains a significant challenge. This project integrates microbial, hydrological, and geochemical data through an AI framework to uncover biological pathways for locating and extracting critical minerals, advancing more sustainable approaches to resource recovery.",
+    "partnerInstitutions": [
+      "texas-am-university",
+      "lawrence-berkeley-national-laboratory"
+    ],
+    "sourceUrl": "https://stories.tamu.edu/news/2026/07/27/texas-am-university-joins-the-genesis-mission-to-transform-science-using-artificial-intelligence/",
+    "topic": "Critical Minerals & Geochemistry"
+  },
+  {
+    "id": "partner-led-13",
+    "title": "Generative AI-Enabled Digital Twins for Subsurface Fracture Systems with Active Learning Multiphysics Data Assimilation",
+    "role": "partner_led",
+    "leadInstitution": "university-of-minnesota",
+    "description": "Real-time decision-making in geothermal energy extraction requires precise understanding of subsurface conditions, which current static models cannot provide. This project creates a generative AI-enabled digital twin that processes underground sensor data in real time to predict subsurface fracture behavior, allowing operators to monitor and optimize geothermal operations more efficiently while reducing costs.",
+    "partnerInstitutions": [
+      "university-of-minnesota",
+      "lawrence-berkeley-national-laboratory"
+    ],
+    "sourceUrl": "https://twin-cities.umn.edu/news-events/university-minnesota-receives-doe-genesis-mission-funding-advance-ai-breakthroughs",
+    "topic": "Subsurface, Earth & Water Systems"
+  },
+  {
+    "id": "partner-led-14",
+    "title": "RAIN: Rigorous AI and Information Network for Surface-Subsurface Water System Coupling",
+    "role": "partner_led",
+    "leadInstitution": "envitrace",
+    "description": "Understanding how surface water and groundwater systems interact across scales is critical for predicting water availability and managing flood risks. Project RAIN creates an AI-enabled scientific workflow that connects observations, physical models, advanced computing, and uncertainty quantification to improve predictions of coupled water systems and guide water resource management decisions.",
+    "partnerInstitutions": [
+      "envitrace",
+      "lawrence-berkeley-national-laboratory",
+      "los-alamos-national-laboratory",
+      "lawrence-livermore-national-laboratory",
+      "sandia-national-laboratories",
+      "pacific-northwest-national-laboratory",
+      "oak-ridge-national-laboratory"
+    ],
+    "sourceUrl": "https://www.envitrace.com/",
+    "topic": "Subsurface, Earth & Water Systems"
+  },
+  {
+    "id": "partner-led-15",
+    "title": "Multi-Fidelity AI Foundation Model for Coupled Surface-Groundwater Predictions of Water Availability and Flood Hazards Across CONUS",
+    "role": "partner_led",
+    "leadInstitution": "argonne-national-laboratory",
+    "description": "Large-scale hydrologic models often sacrifice local detail for continental coverage, oversimplifying the complex interactions between surface water and groundwater. This multi-institutional project develops an AI foundation model using 'multi-fidelity fusion' to blend data from continental, regional, and local simulations, delivering precise, uncertainty-aware forecasts of water availability and flood hazards across the continental United States to support energy resilience and infrastructure planning.",
+    "partnerInstitutions": [
+      "argonne-national-laboratory",
+      "university-of-arizona",
+      "lawrence-berkeley-national-laboratory"
+    ],
+    "sourceUrl": "https://www.anl.gov/genesis-mission/projects/multi-fidelity-ai-foundation-model-for-coupled-surface-groundwater-predictions-of-water-availability-and-flood-hazards-across-conus",
+    "topic": "Subsurface, Earth & Water Systems"
+  },
+  {
+    "id": "partner-led-16",
+    "title": "MIRACLE-AI: Molecular-to-Reservoir Integrated AI for Coupled Landscape and Earth-system Subsurface Intelligence",
+    "role": "partner_led",
+    "leadInstitution": "sandia-national-laboratories",
+    "description": "Geothermal energy and other subsurface systems depend on coupled biological, chemical, and hydrologic processes that are difficult to predict across molecular, reservoir, and earth-system scales. MIRACLE-AI develops an AI-guided framework to integrate these multi-scale processes and improve predictive understanding of subsurface environments, enabling better design and optimization of geothermal and other subsurface energy systems.",
+    "partnerInstitutions": [
+      "sandia-national-laboratories",
+      "lawrence-berkeley-national-laboratory"
+    ],
+    "sourceUrl": "https://www.sandia.gov/labnews/2026/07/30/sandia-selected-to-lead-six-genesis-mission-projects-partner-on-17-others/",
+    "topic": "Subsurface, Earth & Water Systems"
+  },
+  {
+    "id": "partner-led-17",
+    "title": "AI-driven discovery of electrochemical separation methods for rare earth elements",
+    "role": "partner_led",
+    "leadInstitution": "massachusetts-institute-of-technology",
+    "description": "Rare earth elements are critical for clean energy and defense technologies, but traditional mining and extraction methods are energy-intensive and environmentally costly. This project applies AI-driven discovery to identify novel electrochemical separation pathways that could enable chemical-free extraction of rare earth elements, reducing the energy footprint and environmental impact of rare earth recovery.",
+    "partnerInstitutions": [
+      "massachusetts-institute-of-technology",
+      "lawrence-berkeley-national-laboratory"
+    ],
+    "sourceUrl": "https://climate.mit.edu/posts/mit-projects-selected-funding-under-us-department-energys-genesis-mission",
+    "topic": "Materials Science & Manufacturing"
+  },
+  {
+    "id": "partner-led-18",
+    "title": "AI-Driven Discovery of Rare Earth Separation Chemistry",
+    "role": "partner_led",
+    "leadInstitution": "riven-corporation",
+    "description": "Rare earth elements are critical for batteries, magnets, and advanced manufacturing, but separating them from ore and concentrate streams remains a major bottleneck in securing domestic supply. This project applies artificial intelligence to discover novel chemical separation methods that could make rare earth processing more efficient and economically viable.",
+    "partnerInstitutions": [
+      "riven-corporation",
+      "lawrence-berkeley-national-laboratory",
+      "los-alamos-national-laboratory",
+      "university-of-california-berkeley"
+    ],
+    "sourceUrl": "https://www.lbl.gov/genesis-mission/partner-projects/",
+    "topic": "Materials Science & Manufacturing"
+  },
+  {
+    "id": "partner-led-19",
+    "title": "AI-Driven Probabilistic Source Mapping for Critical Minerals at Continental Scale",
+    "role": "partner_led",
+    "leadInstitution": "kent-state-university",
+    "description": "The United States imports most of its critical minerals despite having domestic reserves, yet decades of water-quality monitoring data contain chemical fingerprints that could reveal where copper, cobalt, and manganese deposits lie. This project uses artificial intelligence to analyze fifty years of continental water records to identify high-probability mineral deposit locations and create screening tools for integration into DOE platforms.",
+    "partnerInstitutions": [
+      "kent-state-university",
+      "usgs",
+      "lawrence-berkeley-national-laboratory",
+      "virginia-tech"
+    ],
+    "sourceUrl": "https://www.kent.edu/today/news/kent-state-researcher-selected-doe-genesis-mission-award-critical-minerals",
+    "topic": "Critical Minerals & Geochemistry"
+  },
+  {
+    "id": "partner-led-20",
+    "title": "AI-Enabled Electrochemical Refinery",
+    "role": "partner_led",
+    "leadInstitution": "california-institute-of-technology",
+    "description": "Chemical manufacturing is constrained by traditional methods and the vast unexplored space of possible electrochemical reactions—over ten billion combinations of gases, electrolytes, and operating conditions. This project builds a self-driving electrochemical laboratory that combines machine learning with high-throughput experimentation to discover novel pathways for converting carbon dioxide into useful chemicals like ethylene and ethanol.",
+    "partnerInstitutions": [
+      "california-institute-of-technology",
+      "lila-sciences",
+      "lawrence-berkeley-national-laboratory",
+      "argonne-national-laboratory",
+      "university-of-georgia",
+      "dayhoff-labs"
+    ],
+    "sourceUrl": "https://www.caltech.edu/about/news/two-caltech-projects-selected-for-doe-funding-as-part-of-genesis-mission",
+    "topic": "Materials Science & Manufacturing"
+  },
+  {
+    "id": "partner-led-21",
+    "title": "AI-accelerated digital twin for REBCO coated conductor manufacturing in superconducting fusion magnet systems",
+    "role": "partner_led",
+    "leadInstitution": "florida-state-university",
+    "description": "Superconducting tapes are essential for fusion energy magnets, but the United States currently lacks domestic production capacity. This project creates an AI digital twin that models the REBCO coated conductor manufacturing process, learning how production conditions affect tape quality and enabling optimization of a domestic supply chain for this critical technology.",
+    "partnerInstitutions": [
+      "florida-state-university",
+      "high-temperature-superconductors",
+      "lawrence-berkeley-national-laboratory",
+      "national-high-magnetic-field-laboratory"
+    ],
+    "sourceUrl": "https://news.fsu.edu/news/university-news/2026/07/22/florida-state-university-secures-department-of-energy-genesis-mission-awards/",
+    "topic": "Materials Science & Manufacturing"
+  },
+  {
+    "id": "partner-led-22",
+    "title": "Autonomous Implosion Design and Experimental Co-piloting via Physics-Grounded Agentic AI",
+    "role": "partner_led",
+    "leadInstitution": "university-of-rochester",
+    "description": "Inertial confinement fusion research demands rapid synthesis of experimental data and complex simulations under tight time constraints—a challenge that traditionally consumes months of manual reconciliation. This project develops an advanced AI framework combining differentiable physics, foundation-model surrogates, reinforcement learning, and an experimental copilot to accelerate implosion design optimization and enable real-time decision-making. The system helps physicists identify relevant historical data, test potential explanations for experimental outcomes, and identify promising next steps, laying technical groundwork for future high-repetition-rate fusion facilities.",
+    "partnerInstitutions": [
+      "university-of-rochester",
+      "lawrence-berkeley-national-laboratory"
+    ],
+    "sourceUrl": "https://www.lle.rochester.edu/news/genesis-mission-ai-fusion/",
+    "topic": "Accelerator & Physics Research"
+  },
+  {
+    "id": "partner-led-23",
+    "title": "Facility-Level Agentic AI for Portable LaserNetUS Diagnostics and Interoperable Device Integration",
+    "role": "partner_led",
+    "leadInstitution": "lawrence-livermore-national-laboratory",
+    "description": "Experimental science across national facilities generates vast datasets that remain isolated and difficult to integrate across institutions. This project creates agentic AI systems for experimental science, focusing on portable laser diagnostics and interoperable integration across LaserNetUS facilities. By enabling seamless data sharing and real-time analysis across distributed instruments, the framework enhances experimental capabilities and accelerates scientific discovery.",
+    "partnerInstitutions": [
+      "lawrence-livermore-national-laboratory",
+      "lawrence-berkeley-national-laboratory"
+    ],
+    "sourceUrl": "https://www.llnl.gov/article/54711/llnl-selected-lead-10-projects-under-does-genesis-mission",
+    "topic": "Accelerator & Physics Research"
+  },
+  {
+    "id": "partner-led-24",
+    "title": "Causal AI for Deterministic Quantum Emitters from Atoms to Photonic Systems",
+    "role": "partner_led",
+    "leadInstitution": "university-of-california-irvine",
+    "description": "Deterministic quantum emitters—controllable sources of quantum light from atomic to photonic scales—are essential for future quantum technologies spanning communication, sensing, and information processing. This project applies causal AI methods to understand and advance the control of deterministic quantum emitters across scales from atoms to photonic systems, enabling more robust quantum technologies.",
+    "partnerInstitutions": [
+      "lawrence-berkeley-national-laboratory",
+      "single-quantum",
+      "university-of-california-irvine"
+    ],
+    "sourceUrl": "https://www.lbl.gov/genesis-mission/partner-projects/",
+    "topic": "Quantum Science"
+  },
+  {
+    "id": "partner-led-25",
+    "title": "Denoising Quantum Sensors: Agentic Algorithm Creation and Real-Time AI for Quantum-Enabled Rare Event Discovery",
+    "role": "partner_led",
+    "leadInstitution": "university-of-california-san-diego",
+    "description": "Several grand challenges in fundamental physics—detecting axion dark matter, discovering neutrinoless double-beta decay, and implementing quantum error correction—depend on sensors so sensitive that quantum noise obscures their signals. This project couples agentic AI with fast machine learning to denoise quantum sensors in real time, unlocking the sensitivity required to accelerate discovery in these three major science missions.",
+    "partnerInstitutions": [
+      "university-of-california-san-diego",
+      "microsoft",
+      "argonne-national-laboratory",
+      "sandia-national-laboratories",
+      "university-of-california-riverside",
+      "university-of-maryland",
+      "university-of-southern-california",
+      "virginia-tech",
+      "lawrence-berkeley-national-laboratory"
+    ],
+    "sourceUrl": "https://www.lbl.gov/genesis-mission/partner-projects/",
+    "topic": "Quantum Science"
+  },
+  {
+    "id": "partner-led-26",
+    "title": "GRID OPS AI: Scaling Grid Operations with Distributionally Robust, Physics Informed, Safe AI",
+    "role": "partner_led",
+    "leadInstitution": "oklahoma-state-university",
+    "description": "Electrical grid operations face mounting complexity from distributed renewable energy sources, variable demand, and extreme weather events. This project applies physics-informed AI to achieve scalable, reliable grid operations through distributionally robust optimization that maintains performance under uncertain conditions, enabling safer and more efficient energy distribution at unprecedented scale.",
+    "partnerInstitutions": [
+      "oklahoma-state-university",
+      "lawrence-berkeley-national-laboratory",
+      "oklahoma-electric-cooperative",
+      "skyhelm",
+      "oklahoma-gas-electric"
+    ],
+    "sourceUrl": "https://news.okstate.edu/articles/engineering-architecture-technology/2026/oklahoma-state-university-selected-for-u.s.-department-of-energys-genesis-mission-initiative",
+    "topic": "Energy Infrastructure & Grid"
+  },
+  {
+    "id": "partner-led-27",
+    "title": "AI-powered frameworks to enhance grid resilience under high-dimensional uncertainties",
+    "role": "partner_led",
+    "leadInstitution": "arizona-state-university",
+    "description": "As electrical grids integrate more renewable energy and face increasingly extreme weather, traditional models struggle to predict behavior across uncertain, high-dimensional scenarios. Researchers are developing AI systems to rapidly assess thousands of potential operating conditions—from changing energy demands to new technology integration and extreme weather—to identify the most critical scenarios for maintaining grid reliability and help grid operators make faster, more informed decisions.",
+    "partnerInstitutions": [
+      "arizona-state-university",
+      "lawrence-berkeley-national-laboratory",
+      "pacific-northwest-national-laboratory",
+      "pennsylvania-state-university",
+      "university-of-california-san-diego"
+    ],
+    "sourceUrl": "https://news.asu.edu/20260722-science-and-technology-asu-awarded-doe-genesis-mission-grant-electrical-grid-reliability",
+    "topic": "Energy Infrastructure & Grid"
+  },
+  {
+    "id": "partner-led-28",
+    "title": "POLARIS: Phase-logic Optimization via Learning and AI for Reduced-temperature Integrated Systems",
+    "role": "partner_led",
+    "leadInstitution": "university-of-southern-california",
+    "description": "Microelectronics manufacturing faces fundamental trade-offs between device performance and production costs. POLARIS uses machine learning and AI-driven optimization to improve phase-logic systems in integrated circuits while operating at reduced temperatures, advancing U.S. competitiveness in semiconductor manufacturing and microelectronics design.",
+    "partnerInstitutions": [
+      "university-of-southern-california",
+      "lawrence-berkeley-national-laboratory"
+    ],
+    "sourceUrl": "https://www.lbl.gov/genesis-mission/partner-projects/",
+    "topic": "Materials Science & Manufacturing"
+  },
+  {
+    "id": "partner-led-29",
+    "title": "Hierarchical Multi-Modal AI for the Discovery of Regioselective Molecular Catalysts",
+    "role": "partner_led",
+    "leadInstitution": "university-of-california-berkeley",
+    "description": "Chemistry has historically been constrained by scarce, hard-to-generate experimental data for training AI models. This project combines a large language model with a 3D quantum-physics model trained on over 500 million quantum calculations to enable AI-driven discovery of regioselective molecular catalysts, bridging the gap between data scarcity and the computational insight needed for accelerated catalyst design.",
+    "partnerInstitutions": [
+      "university-of-california-berkeley",
+      "lawrence-berkeley-national-laboratory",
+      "cornell-university"
+    ],
+    "sourceUrl": "https://chemistry.berkeley.edu/news/uc-berkeley-college-chemistry-awarded-doe-genesis-mission-grant",
+    "topic": "Materials Science & Manufacturing"
+  },
+  {
+    "id": "partner-led-30",
+    "title": "AI-Driven Inverse Design of Patchy DNA Origami for Assembly of Programmable Superlattices",
+    "role": "partner_led",
+    "leadInstitution": "duke-university",
+    "description": "Programming DNA origami nanostructures into larger, highly ordered architectures has been a major inverse-design challenge. This project combines large-scale simulations, high-throughput experiments, and machine learning to automatically design DNA origami building blocks that self-assemble into custom superlattice architectures. The work targets energy-relevant applications in photonic, electronic, and catalytic systems, with potential breakthroughs for energy production, chemical manufacturing, and quantum computing.",
+    "partnerInstitutions": [
+      "duke-university",
+      "georgia-institute-of-technology",
+      "emory-university",
+      "lawrence-berkeley-national-laboratory"
+    ],
+    "sourceUrl": "https://pratt.duke.edu/news/doe-genesis-program-dna-origami/",
+    "topic": "Materials Science & Manufacturing"
+  },
+  {
+    "id": "partner-led-31",
+    "title": "Enabling Rare Event Discovery with Surrogate Modeling and Simulation AI Agents",
+    "role": "partner_led",
+    "leadInstitution": "university-of-north-carolina-chapel-hill",
+    "description": "Discovering rare phenomena like neutrinoless double-beta decay requires searching enormous datasets for extraordinarily elusive signals. Researchers at UNC-Chapel Hill are developing a surrogate model—an AI system trained on previous simulations that can speed up simulation by a factor of 100 without re-running expensive physics calculations from scratch. The team is also deploying AI directly on experimental hardware to filter background noise in real-time, enabling detection of signals previously obscured by noise and opening pathways to discover dark matter and phenomena beyond current physics models.",
+    "partnerInstitutions": [
+      "university-of-north-carolina-chapel-hill",
+      "university-of-california-san-diego",
+      "oak-ridge-national-laboratory",
+      "lawrence-berkeley-national-laboratory"
+    ],
+    "sourceUrl": "https://college.unc.edu/2026/07/julieta-gruszko-genesis/",
+    "topic": "Accelerator & Physics Research"
+  },
+  {
+    "id": "partner-led-32",
+    "title": "PARSE: Physics-Informed Adversarial Robustness for Scientific AI-Enabled Workflows",
+    "role": "partner_led",
+    "leadInstitution": "university-of-arizona",
+    "description": "Scientific AI-enabled workflows in fusion energy, power grids, and climate science face growing cybersecurity vulnerabilities. The PARSE project develops physics-informed AI tools that make these workflows more secure and resilient against cyberattacks. By integrating security considerations into the foundation of scientific AI systems, the project protects critical infrastructure and enables robust AI deployment across diverse scientific domains.",
+    "partnerInstitutions": [
+      "university-of-arizona",
+      "lawrence-berkeley-national-laboratory"
+    ],
+    "sourceUrl": "https://news.arizona.edu/news/department-energy-selects-5-u-research-projects-through-new-ai-science-genesis-mission-awards",
+    "topic": "Scientific Infrastructure & AI Methods"
+  }
+]

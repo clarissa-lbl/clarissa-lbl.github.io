@@ -1,0 +1,594 @@
+{
+  "lawrence-berkeley-national-laboratory": {
+    "name": "Lawrence Berkeley National Laboratory",
+    "shortName": "LBNL",
+    "lat": 37.8759,
+    "lon": -122.2481,
+    "city": "Berkeley, CA",
+    "type": "national_lab"
+  },
+  "michigan-state-university": {
+    "name": "Michigan State University",
+    "shortName": "Michigan State",
+    "lat": 42.7018,
+    "lon": -84.4822,
+    "city": "East Lansing, MI",
+    "type": "university"
+  },
+  "california-institute-of-technology": {
+    "name": "California Institute of Technology",
+    "shortName": "Caltech",
+    "lat": 34.1377,
+    "lon": -118.1253,
+    "city": "Pasadena, CA",
+    "type": "university"
+  },
+  "lawrence-livermore-national-laboratory": {
+    "name": "Lawrence Livermore National Laboratory",
+    "shortName": "LLNL",
+    "lat": 37.6879,
+    "lon": -121.7857,
+    "city": "Livermore, CA",
+    "type": "national_lab"
+  },
+  "los-alamos-national-laboratory": {
+    "name": "Los Alamos National Laboratory",
+    "shortName": "LANL",
+    "lat": 35.8801,
+    "lon": -106.3031,
+    "city": "Los Alamos, NM",
+    "type": "national_lab"
+  },
+  "fermi-national-accelerator-laboratory": {
+    "name": "Fermi National Accelerator Laboratory",
+    "shortName": "Fermilab",
+    "lat": 41.8412,
+    "lon": -88.2452,
+    "city": "Batavia, IL",
+    "type": "national_lab"
+  },
+  "brookhaven-national-laboratory": {
+    "name": "Brookhaven National Laboratory",
+    "shortName": "BNL",
+    "lat": 40.8680,
+    "lon": -72.8765,
+    "city": "Upton, NY",
+    "type": "national_lab"
+  },
+  "argonne-national-laboratory": {
+    "name": "Argonne National Laboratory",
+    "shortName": "ANL",
+    "lat": 41.7014,
+    "lon": -87.9754,
+    "city": "Argonne, IL",
+    "type": "national_lab"
+  },
+  "oak-ridge-national-laboratory": {
+    "name": "Oak Ridge National Laboratory",
+    "shortName": "ORNL",
+    "lat": 35.9361,
+    "lon": -84.3317,
+    "city": "Oak Ridge, TN",
+    "type": "national_lab"
+  },
+  "pacific-northwest-national-laboratory": {
+    "name": "Pacific Northwest National Laboratory",
+    "shortName": "PNNL",
+    "lat": 46.3584,
+    "lon": -119.2767,
+    "city": "Richland, WA",
+    "type": "national_lab"
+  },
+  "sandia-national-laboratories": {
+    "name": "Sandia National Laboratories",
+    "shortName": "Sandia",
+    "lat": 35.0844,
+    "lon": -106.6504,
+    "city": "Albuquerque, NM",
+    "type": "national_lab"
+  },
+  "slac-national-accelerator-laboratory": {
+    "name": "SLAC National Accelerator Laboratory",
+    "shortName": "SLAC",
+    "lat": 37.4200,
+    "lon": -122.2042,
+    "city": "Menlo Park, CA",
+    "type": "national_lab"
+  },
+  "massachusetts-institute-of-technology": {
+    "name": "Massachusetts Institute of Technology",
+    "shortName": "MIT",
+    "lat": 42.3601,
+    "lon": -71.0589,
+    "city": "Cambridge, MA",
+    "type": "university"
+  },
+  "stanford-university": {
+    "name": "Stanford University",
+    "shortName": "Stanford",
+    "lat": 37.4275,
+    "lon": -122.1697,
+    "city": "Palo Alto, CA",
+    "type": "university"
+  },
+  "university-of-california-berkeley": {
+    "name": "University of California, Berkeley",
+    "shortName": "UC Berkeley",
+    "lat": 37.8722,
+    "lon": -122.2597,
+    "city": "Berkeley, CA",
+    "type": "university"
+  },
+  "university-of-california-davis": {
+    "name": "University of California, Davis",
+    "shortName": "UC Davis",
+    "lat": 38.5449,
+    "lon": -121.7405,
+    "city": "Davis, CA",
+    "type": "university"
+  },
+  "university-of-california-irvine": {
+    "name": "University of California, Irvine",
+    "shortName": "UC Irvine",
+    "lat": 33.6397,
+    "lon": -117.8443,
+    "city": "Irvine, CA",
+    "type": "university"
+  },
+  "university-of-california-riverside": {
+    "name": "University of California, Riverside",
+    "shortName": "UC Riverside",
+    "lat": 33.9731,
+    "lon": -117.3280,
+    "city": "Riverside, CA",
+    "type": "university"
+  },
+  "university-of-california-san-diego": {
+    "name": "University of California, San Diego",
+    "shortName": "UC San Diego",
+    "lat": 32.8753,
+    "lon": -117.2474,
+    "city": "San Diego, CA",
+    "type": "university"
+  },
+  "university-of-california-santa-barbara": {
+    "name": "University of California, Santa Barbara",
+    "shortName": "UC Santa Barbara",
+    "lat": 34.4139,
+    "lon": -119.8489,
+    "city": "Santa Barbara, CA",
+    "type": "university"
+  },
+  "purdue-university": {
+    "name": "Purdue University",
+    "shortName": "Purdue",
+    "lat": 40.4259,
+    "lon": -86.9081,
+    "city": "West Lafayette, IN",
+    "type": "university"
+  },
+  "carnegie-mellon-university": {
+    "name": "Carnegie Mellon University",
+    "shortName": "CMU",
+    "lat": 40.4426,
+    "lon": -79.9456,
+    "city": "Pittsburgh, PA",
+    "type": "university"
+  },
+  "university-of-southern-california": {
+    "name": "University of Southern California",
+    "shortName": "USC",
+    "lat": 34.0224,
+    "lon": -118.2851,
+    "city": "Los Angeles, CA",
+    "type": "university"
+  },
+  "yale-university": {
+    "name": "Yale University",
+    "shortName": "Yale",
+    "lat": 41.3083,
+    "lon": -72.9279,
+    "city": "New Haven, CT",
+    "type": "university"
+  },
+  "university-of-arizona": {
+    "name": "University of Arizona",
+    "shortName": "U of A",
+    "lat": 32.2313,
+    "lon": -110.9265,
+    "city": "Tucson, AZ",
+    "type": "university"
+  },
+  "texas-am-university": {
+    "name": "Texas A&M University",
+    "shortName": "Texas A&M",
+    "lat": 30.6167,
+    "lon": -96.3344,
+    "city": "College Station, TX",
+    "type": "university"
+  },
+  "university-of-minnesota": {
+    "name": "University of Minnesota",
+    "shortName": "U of Minnesota",
+    "lat": 44.9757,
+    "lon": -93.2262,
+    "city": "Minneapolis, MN",
+    "type": "university"
+  },
+  "oklahoma-state-university": {
+    "name": "Oklahoma State University",
+    "shortName": "OSU",
+    "lat": 36.1245,
+    "lon": -97.0747,
+    "city": "Stillwater, OK",
+    "type": "university"
+  },
+  "arizona-state-university": {
+    "name": "Arizona State University",
+    "shortName": "ASU",
+    "lat": 33.4204,
+    "lon": -111.9289,
+    "city": "Tempe, AZ",
+    "type": "university"
+  },
+  "duke-university": {
+    "name": "Duke University",
+    "shortName": "Duke",
+    "lat": 36.0014,
+    "lon": -78.9382,
+    "city": "Durham, NC",
+    "type": "university"
+  },
+  "georgia-institute-of-technology": {
+    "name": "Georgia Institute of Technology",
+    "shortName": "Georgia Tech",
+    "lat": 33.7756,
+    "lon": -84.3963,
+    "city": "Atlanta, GA",
+    "type": "university"
+  },
+  "emory-university": {
+    "name": "Emory University",
+    "shortName": "Emory",
+    "lat": 33.7961,
+    "lon": -84.3727,
+    "city": "Atlanta, GA",
+    "type": "university"
+  },
+  "university-of-north-carolina-chapel-hill": {
+    "name": "University of North Carolina at Chapel Hill",
+    "shortName": "UNC",
+    "lat": 35.9132,
+    "lon": -79.0066,
+    "city": "Chapel Hill, NC",
+    "type": "university"
+  },
+  "university-of-rochester": {
+    "name": "University of Rochester",
+    "shortName": "Rochester",
+    "lat": 43.2557,
+    "lon": -77.6033,
+    "city": "Rochester, NY",
+    "type": "university"
+  },
+  "montana-state-university": {
+    "name": "Montana State University",
+    "shortName": "Montana State",
+    "lat": 45.6625,
+    "lon": -111.0537,
+    "city": "Bozeman, MT",
+    "type": "university"
+  },
+  "boise-state-university": {
+    "name": "Boise State University",
+    "shortName": "Boise State",
+    "lat": 43.6019,
+    "lon": -116.2023,
+    "city": "Boise, ID",
+    "type": "university"
+  },
+  "florida-state-university": {
+    "name": "Florida State University",
+    "shortName": "FSU",
+    "lat": 30.4383,
+    "lon": -84.2807,
+    "city": "Tallahassee, FL",
+    "type": "university"
+  },
+  "montana-tech": {
+    "name": "Montana Tech",
+    "shortName": "Montana Tech",
+    "lat": 46.3015,
+    "lon": -112.8012,
+    "city": "Butte, MT",
+    "type": "university"
+  },
+  "auburn-university": {
+    "name": "Auburn University",
+    "shortName": "Auburn",
+    "lat": 32.6057,
+    "lon": -85.4831,
+    "city": "Auburn, AL",
+    "type": "university"
+  },
+  "university-of-illinois-urbana-champaign": {
+    "name": "University of Illinois Urbana-Champaign",
+    "shortName": "Illinois",
+    "lat": 40.1164,
+    "lon": -88.2434,
+    "city": "Champaign, IL",
+    "type": "university"
+  },
+  "university-of-wisconsin-madison": {
+    "name": "University of Wisconsin–Madison",
+    "shortName": "UW-Madison",
+    "lat": 43.0731,
+    "lon": -89.4012,
+    "city": "Madison, WI",
+    "type": "university"
+  },
+  "cornell-university": {
+    "name": "Cornell University",
+    "shortName": "Cornell",
+    "lat": 42.4534,
+    "lon": -76.4735,
+    "city": "Ithaca, NY",
+    "type": "university"
+  },
+  "university-of-georgia": {
+    "name": "University of Georgia",
+    "shortName": "UGA",
+    "lat": 33.9519,
+    "lon": -83.3746,
+    "city": "Athens, GA",
+    "type": "university"
+  },
+  "virginia-tech": {
+    "name": "Virginia Tech",
+    "shortName": "Virginia Tech",
+    "lat": 37.2296,
+    "lon": -80.4139,
+    "city": "Blacksburg, VA",
+    "type": "university"
+  },
+  "university-of-maryland": {
+    "name": "University of Maryland",
+    "shortName": "UMD",
+    "lat": 38.9869,
+    "lon": -76.9426,
+    "city": "College Park, MD",
+    "type": "university"
+  },
+  "pennsylvania-state-university": {
+    "name": "Pennsylvania State University",
+    "shortName": "Penn State",
+    "lat": 40.8134,
+    "lon": -77.8601,
+    "city": "State College, PA",
+    "type": "university"
+  },
+  "kent-state-university": {
+    "name": "Kent State University",
+    "shortName": "Kent State",
+    "lat": 41.1443,
+    "lon": -81.2485,
+    "city": "Kent, OH",
+    "type": "university"
+  },
+  "rice-university": {
+    "name": "Rice University",
+    "shortName": "Rice",
+    "lat": 29.7174,
+    "lon": -95.4018,
+    "city": "Houston, TX",
+    "type": "university"
+  },
+  "microsoft": {
+    "name": "Microsoft",
+    "shortName": "Microsoft",
+    "lat": 47.6062,
+    "lon": -122.3321,
+    "city": "Seattle, WA",
+    "type": "company"
+  },
+  "group-ten-usa": {
+    "name": "Stillwater Critical Minerals Corp.",
+    "shortName": "Stillwater Critical Minerals",
+    "lat": 45.42,
+    "lon": -109.80,
+    "city": "Stillwater Mining District (Nye, MT)",
+    "website": "http://www.criticalminerals.com/",
+    "type": "company",
+    "note": "Pinned at the Stillwater West flagship project site in Nye, MT rather than the Vancouver, BC corporate HQ, per confirmation"
+  },
+  "spruce-oregon-holdings": {
+    "name": "Spruce Oregon Holdings Inc",
+    "shortName": "Spruce Oregon",
+    "lat": 45.5183,
+    "lon": -122.6787,
+    "city": "Portland, OR",
+    "address": "1211 SW 5th Ave #1900, Portland, OR 97204",
+    "type": "company"
+  },
+  "exabyte": {
+    "name": "Exabyte Inc",
+    "shortName": "Exabyte",
+    "lat": 37.7879,
+    "lon": -122.3972,
+    "city": "San Francisco, CA",
+    "type": "company"
+  },
+  "rescale": {
+    "name": "Rescale Inc",
+    "shortName": "Rescale",
+    "lat": 37.7863,
+    "lon": -122.4009,
+    "city": "San Francisco, CA",
+    "type": "company"
+  },
+  "deep-isolation": {
+    "name": "Deep Isolation Inc",
+    "shortName": "Deep Isolation",
+    "lat": 37.8703,
+    "lon": -122.2680,
+    "city": "Berkeley, CA",
+    "type": "company"
+  },
+  "valency-systems": {
+    "name": "Valency Systems Inc",
+    "shortName": "Valency",
+    "lat": 37.8715,
+    "lon": -122.2730,
+    "city": "Berkeley, CA",
+    "type": "company"
+  },
+  "inversion-semiconductor": {
+    "name": "Inversion Semiconductor Inc",
+    "shortName": "Inversion",
+    "lat": 37.7749,
+    "lon": -122.4194,
+    "city": "San Francisco, CA",
+    "type": "company"
+  },
+  "realta-fusion": {
+    "name": "Realta Fusion Inc",
+    "shortName": "Realta Fusion",
+    "lat": 43.0731,
+    "lon": -89.4012,
+    "city": "Madison, WI",
+    "type": "company"
+  },
+  "exozymes": {
+    "name": "eXoZymes Inc",
+    "shortName": "eXoZymes",
+    "lat": 34.1442,
+    "lon": -117.9995,
+    "city": "Monrovia, CA",
+    "type": "company"
+  },
+  "envitrace": {
+    "name": "EnviTrace LLC",
+    "shortName": "EnviTrace",
+    "lat": 35.6870,
+    "lon": -105.9378,
+    "city": "Santa Fe, NM",
+    "type": "company"
+  },
+  "riven-corporation": {
+    "name": "Riven Systems",
+    "shortName": "Riven",
+    "lat": 40.8113,
+    "lon": -73.9569,
+    "city": "New York, NY",
+    "address": "1361 Amsterdam Ave, New York, NY 10027",
+    "website": "https://rivensystems.ai/",
+    "type": "company"
+  },
+  "high-temperature-superconductors": {
+    "name": "High Temperature Superconductors Inc",
+    "shortName": "HTS Inc",
+    "lat": 34.4208,
+    "lon": -119.6982,
+    "city": "Santa Barbara, CA",
+    "type": "company"
+  },
+  "lila-sciences": {
+    "name": "LILA Sciences",
+    "shortName": "LILA Sciences",
+    "lat": 42.3656,
+    "lon": -71.0790,
+    "city": "Cambridge, MA",
+    "type": "company"
+  },
+  "dayhoff-labs": {
+    "name": "Dayhoff Labs",
+    "shortName": "Dayhoff Labs",
+    "lat": 51.5285,
+    "lon": -0.0908,
+    "city": "London, UK",
+    "address": "128 City Road, London EC1V 2NX, United Kingdom",
+    "type": "company",
+    "note": "Outside the US-focused map extent — arc renders trailing off the edge of the map toward the UK rather than expanding the extent"
+  },
+  "skyhelm": {
+    "name": "SkyHelm",
+    "shortName": "SkyHelm",
+    "lat": 35.4676,
+    "lon": -97.5164,
+    "city": "Oklahoma City, OK",
+    "type": "company"
+  },
+  "xlight": {
+    "name": "xLight Inc",
+    "shortName": "xLight",
+    "lat": 37.4419,
+    "lon": -122.1430,
+    "city": "Palo Alto, CA",
+    "type": "company"
+  },
+  "cerebras-systems": {
+    "name": "Cerebras Systems",
+    "shortName": "Cerebras",
+    "lat": 37.3688,
+    "lon": -122.0363,
+    "city": "Sunnyvale, CA",
+    "type": "company"
+  },
+  "national-high-magnetic-field-laboratory": {
+    "name": "National High Magnetic Field Laboratory",
+    "shortName": "NHMFL",
+    "lat": 30.4383,
+    "lon": -84.2807,
+    "city": "Tallahassee, FL",
+    "type": "nonprofit"
+  },
+  "center-for-advanced-bioenergy-and-bioproducts-innovation": {
+    "name": "Center for Advanced Bioenergy and Bioproducts Innovation",
+    "shortName": "CABBI",
+    "lat": 40.1164,
+    "lon": -88.2434,
+    "city": "Champaign, IL",
+    "type": "nonprofit"
+  },
+  "usgs": {
+    "name": "U.S. Geological Survey",
+    "shortName": "USGS",
+    "lat": 38.9497,
+    "lon": -77.3644,
+    "city": "Reston, VA",
+    "type": "government_agency"
+  },
+  "oklahoma-electric-cooperative": {
+    "name": "Oklahoma Electric Cooperative",
+    "shortName": "OEC",
+    "lat": 36.12,
+    "lon": -97.07,
+    "city": "Stillwater, OK",
+    "type": "company"
+  },
+  "oklahoma-gas-electric": {
+    "name": "Oklahoma Gas & Electric",
+    "shortName": "OG&E",
+    "lat": 35.47,
+    "lon": -97.53,
+    "city": "Oklahoma City, OK",
+    "type": "company"
+  },
+  "national-renewable-energy-laboratory": {
+    "name": "National Renewable Energy Laboratory",
+    "shortName": "NREL",
+    "lat": 39.7412,
+    "lon": -104.9860,
+    "city": "Golden, CO",
+    "type": "national_lab",
+    "note": "Possible match for 'National Laboratory of the Rockies' reference - verify with user"
+  },
+  "single-quantum": {
+    "name": "Single Quantum",
+    "shortName": "Single Quantum",
+    "lat": 52.0116,
+    "lon": 4.3571,
+    "city": "Delft, Netherlands",
+    "type": "company"
+  }
+}
