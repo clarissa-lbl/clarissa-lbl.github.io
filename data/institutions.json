@@ -580,8 +580,7 @@
     "lat": 39.7412,
     "lon": -104.9860,
     "city": "Golden, CO",
-    "type": "national_lab",
-    "note": "Possible match for 'National Laboratory of the Rockies' reference - verify with user"
+    "type": "national_lab"
   },
   "single-quantum": {
     "name": "Single Quantum",
