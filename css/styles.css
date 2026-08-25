@@ -29,7 +29,6 @@ html, body {
 #header {
   display: flex;
   align-items: center;
-  justify-content: space-between;
   gap: 20px;
   padding: 14px 20px;
   border-bottom: 1px solid #e5e7eb;
@@ -51,21 +50,26 @@ html, body {
 
 #filter-toggle {
   display: flex;
-  flex: 0 0 auto;
+  margin: 12px 12px 0;
   border: 1px solid #d1d5db;
   border-radius: 8px;
-  overflow: hidden;
+  overflow: visible;
 }
 
 .filter-btn {
+  -webkit-appearance: none;
+  appearance: none;
+  flex: 1 1 0;
   font: inherit;
-  font-size: 0.85rem;
+  font-size: 0.8rem;
+  line-height: 1.4;
   font-weight: 600;
-  padding: 8px 16px;
+  padding: 8px 6px;
   border: none;
   background: #ffffff;
   color: var(--color-ink-muted);
   cursor: pointer;
+  /*white-space: nowrap;*/
   transition: background 0.15s, color 0.15s;
 }
 
