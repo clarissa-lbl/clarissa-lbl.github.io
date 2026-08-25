@@ -69,7 +69,7 @@ html, body {
   background: #ffffff;
   color: var(--color-ink-muted);
   cursor: pointer;
-  /*white-space: nowrap;*/
+  white-space: nowrap;
   transition: background 0.15s, color 0.15s;
 }
 
