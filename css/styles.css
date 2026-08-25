@@ -59,6 +59,8 @@ html, body {
 .filter-btn {
   -webkit-appearance: none;
   appearance: none;
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
   flex: 1 1 0;
   font: inherit;
   font-size: 0.8rem;
