@@ -50,7 +50,7 @@ html, body {
 
 #filter-toggle {
   display: flex;
-  margin: 12px 12px 0;
+  margin: 12px 10px 0;
   border: 1px solid #d1d5db;
   border-radius: 8px;
   overflow: visible;
