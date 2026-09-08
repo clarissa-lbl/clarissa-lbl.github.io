@@ -103,9 +103,7 @@
     "description": "From the cooling needs of fossil and nuclear power plants to the expansion of water-intensive data centers, meeting the demand for uninterrupted water supplies is inseparable from and crucial for reliable energy generation and grid resilience. This new project creates an AI-framework designed to deliver accurate predictions of U.S. water availability and risks specifically for energy applications, providing water resource predictions essential for stakeholder decision-making and management.",
     "partnerInstitutions": [
       "university-of-california-berkeley",
-      "sandia-national-laboratories",
-      "pacific-northwest-national-laboratory",
-      "oak-ridge-national-laboratory"
+      "sandia-national-laboratories"
     ],
     "sourceUrl": "https://www.lbl.gov/genesis-mission-projects/#wise",
     "topic": "Subsurface, Earth & Water Systems"
